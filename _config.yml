@@ -23,7 +23,7 @@ repository               : "barril01/barril01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait_jacket_2023.png"
+  avatar           : "portrait_jacket_2023.jpeg"
   name             : "Austin Barrilleaux"
   pronouns         : # example: "she/her"  
   bio              : "Guidance, Navigation & Controls Engineer with 10 years of experience and PhD Student."
