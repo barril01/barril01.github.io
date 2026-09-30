@@ -24,13 +24,13 @@ repository               : "barril01/barril01.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Austin Barrilleaux"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Guidance, Navigation & Controls Engineer with 10 years of experience and PhD Student."
+  location         : "Baltimore MD"
+  employer         : "JHU/APL"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "austin.barrilleaux@usu.edu" 
 
   # Academic websites
   academia         : # URL
